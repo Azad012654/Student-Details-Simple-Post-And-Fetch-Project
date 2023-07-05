@@ -1,0 +1,4 @@
+com\student\details\studentdetails\controller\StudentController.class
+com\student\details\studentdetails\model\Student.class
+com\student\details\studentdetails\StudentDetailsApplication.class
+com\student\details\studentdetails\Dao\StudentDao.class
